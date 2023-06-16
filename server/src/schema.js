@@ -19,7 +19,7 @@ type Author {
 }
 
 type Query {
-    trackForHome: [Track!]
+    tracksForHome: [Track!]
 }
 `
 
